@@ -1,11 +1,24 @@
 # Hi there, I'm [Omkar Bhat](https://about.me/omkarbhat/) 👋
 
 **Data Scientist & Systems Engineer | Dual M.S., UVA**  
-I build machine learning models and engineer the robust, scalable pipelines required to deploy them. With a dual background in Computer Science and Systems Engineering, I specialize in bridging the gap between advanced algorithms and low-level systems architecture. Currently a Data Science Intern at NexGen Analytix, I focus on large-scale data engineering, advanced Python, and complex SQL database management to drive business decision-making.
----
-### 🛠️ Technical Arsenal
+I build machine learning models and engineer the robust, scalable pipelines required to deploy them. With a dual background in Computer Science and Systems Engineering, I specialize in bridging the gap between advanced algorithms and low-level systems architecture. 
+Currently a Data Science Intern at NexGen Analytix, I focus on large-scale data engineering, advanced Python, and complex SQL database management to drive business decision-making.
 
-<!-- Language & Tech Badges -->
+---
+
+## 📑 Table of Contents
+- [Technical Arsenal](#️-technical-arsenal)
+- [Professional Experience](#-professional-experience)
+- [Featured Data Analytics Projects](#-featured-data-analytics-projects-power-bi-sql--excel)
+- [Featured Engineering & Data Projects](#-featured-engineering--data-projects)
+- [Education & Certifications](#-education--certifications)
+- [Academic Research & Publications](#-academic-research--publications)
+- [Let's Connect](#-lets-connect)
+
+---
+
+## 🛠️ Technical Arsenal
+
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
@@ -13,7 +26,6 @@ I build machine learning models and engineer the robust, scalable pipelines requ
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  
 </div>
 <br>
 <div align="left">
@@ -23,21 +35,19 @@ I build machine learning models and engineer the robust, scalable pipelines requ
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
 </div>
-
 <br>
 
-## 🛠️ Technical Arsenal
 - **Data Science & ML:** Python, Scikit-Learn, XGBoost, Pandas, PySpark, PyTorch (RNNs, ST-GCNs), Time-Series Forecasting
 - **Data Visualization & Analytics:** Power BI, Tableau, Advanced Excel, Streamlit
 - **Systems & Databases:** SQL, MySQL Workbench, SQLite, MongoDB, Docker, FastAPI
 - **Languages:** Python, C/C++, C#, JavaScript, R
+
 ---
 
 ### 💼 Professional Experience
 
 *   **Data Science Intern | NexGen Analytix** (June 2026 – Present)
     *   Supporting the development of data-driven solutions using Python and SQL to assist in business decision-making.
-
 *   **Network Software Intern | Prelude Netcomms** (Dec 2017 – June 2018)
     *   Optimized workflows by scrutinizing enterprise packet metrics, successfully reducing system downtime by 10%.
 
@@ -56,13 +66,13 @@ I build machine learning models and engineer the robust, scalable pipelines requ
 
 ---
 
-
 ### 🚀 Featured Engineering & Data Projects
 
 * **[End-to-End MLOps Network Intrusion API](https://github.com/omkarbhat1995/Network-Intrusion-Detection):** Containerized ML deployment architecture serving a Random Forest classifier trained on synthetic network telemetry via a high-performance FastAPI REST API and Uvicorn within Docker.
 * **[Smart City Traffic Forecaster](https://github.com/omkarbhat1995/Smart-City-Forecaster):** Applied machine learning Streamlit dashboard utilizing XGBoost to predict urban traffic volume based on UCI Metro data and time-series feature engineering.
 * **[PCORE Malware Replica & Architecture](https://github.com/omkarbhat1995/Eomtet-Public):** Deep dive into systems security and data engineering, generating a 3TB+ dataset of network traffic and evaluating host identification within sandboxed Docker environments.
 * **[Colliding Condition Detection in Smart Cities](https://github.com/omkarbhat1995/Smart-City-Collision-Detection):** Built deep learning models (RNNs and Spatio-Temporal Graph Convolutional Networks) in PyTorch to detect events, achieving 95% accuracy in prioritizing urban resources.
+
 ---
 
 ### 🎓 Education & Certifications
@@ -71,6 +81,7 @@ I build machine learning models and engineer the robust, scalable pipelines requ
 *   **Master of Computer Science** | University of Virginia (GPA: 3.80)
 *   **Bachelor of Engineering in Information Technology** | Savitribai Phule Pune University (GPA: 3.75)
 *   **Certifications:** Advanced Certification in Data Science & Analytics (NASSCOM, FutureSkills Prime), Veracode Security Labs Champion Level 3
+
 ---
 
 ### 📚 Academic Research & Publications
@@ -90,6 +101,3 @@ I build machine learning models and engineer the robust, scalable pipelines requ
 *   **LinkedIn:** [omkar-bhat-bb85475a](https://linkedin.com/in/omkar-bhat-bb85475a)
 *   **GitHub:** [github.com/omkarbhat1995](https://github.com/omkarbhat1995)
 *   **Google Scholar:** Omkar Bhat
-
----
-📫 **Let's Connect:** [LinkedIn Profile Link](https://linkedin.com/in/omkar-bhat-bb85475a) 
